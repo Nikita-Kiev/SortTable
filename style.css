@@ -1,0 +1,9 @@
+<style>
+th {
+  cursor: pointer;
+}
+
+th:hover {
+  background: yellow;
+}
+</style>
